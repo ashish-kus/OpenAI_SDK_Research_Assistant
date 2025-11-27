@@ -1,0 +1,8 @@
+openai-agents
+openai
+streamlit
+uuid
+pypdf2
+pydantic
+python-dotenv
+asyncio
