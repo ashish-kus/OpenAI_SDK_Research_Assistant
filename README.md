@@ -1,7 +1,7 @@
 # 📚 Enhanced Research Assistant
 
 An AI-powered research tool that conducts automated web research, generates comprehensive reports, and compares them against existing documents.
-![Preview](Preview/1.png)
+![Preview](https://drive.google.com/file/d/1L1Q_JIhFRrhdkfKn3DJY3kdLdH8sYXff/view?usp=drive_link)
 
 ## Features
 
